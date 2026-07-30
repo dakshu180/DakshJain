@@ -77,41 +77,6 @@
 | **Architectural 3D Visualizer** | Precision home layout design, structural front elevations, and complex spatial modeling. | 3D Modeling, Structural Constraints |
 
 ---
-<h3 align="center">📦 COMMAND CONSOLE // SYSTEM DIRECTORY MATRIX</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/DakshJain/Project-OMEGA">
-        <img src="https://img.shields.io/badge/📂_Project_OMEGA-AI_Coprocessor_&_OS-FF0055?style=for-the-badge&logo=typescript&logoColor=white" width="100%" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/DakshJain/Diabetic-Retinopathy-AI-Portal">
-        <img src="https://img.shields.io/badge/📂_Diabetic_Retinopathy-Medical_AI_Portal-00E5FF?style=for-the-badge&logo=python&logoColor=black" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/DakshJain/SpecLearn">
-        <img src="https://img.shields.io/badge/📂_SpecLearn-AI_Online_School-00FF66?style=for-the-badge&logo=html5&logoColor=black" width="100%" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DakshJain/isl-project">
-        <img src="https://img.shields.io/badge/📂_isl_project-Jupyter_Analytics-FFA500?style=for-the-badge&logo=jupyter&logoColor=black" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/DakshJain/brighton-school-website">
-        <img src="https://img.shields.io/badge/📂_brighton_school_website-Astro_Web_Portal-9370DB?style=for-the-badge&logo=astro&logoColor=white" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
 ### 🏆 Gamified Trophies & Milestones
 
 <p align="center">
