@@ -1,4 +1,42 @@
 <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=3500&pause=800&color=FF0055&center=true&vCenter=true&width=750&lines=ROOT%40SOVEREIGN-SYS:~#+INIT;SYSTEM+OVERRIDE+%2F%2F+DAKSH+JAIN;DEPLOYING+AUTONOMOUS+INTELLIGENCE;BREAKING+CONVENTIONS+%2F%2F+ZERO+COMPROMISE" alt="Terminal Typing Header" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-UNCOMPROMISED-FF0055?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLEARANCE-ROOT_ACCESS-00FF66?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/LOCATION-RAIPUR_NODE-00E5FF?style=for-the-badge&logo=adafruit&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,35&height=120&section=header&text=SOVEREIGN%20SYSTEMS%20ARCHITECT&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=65&animation=fadeIn&font=Fira+Code" alt="Wave Banner" />
+</p>
+
+<p align="center">
+  <em>"The code is law. Everything else is just a suggestion."</em>
+</p>
+
+---
+
+<h3 align="center">⚡ DIRECTORY OVERRIDE // CLICK TO JUMP TO REPO</h3>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/Project-OMEGA">
+    <img src="https://img.shields.io/badge/PROJECT_OMEGA-AI_CORE-FF0055?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/ISL-Diabetic-Retinopathy">
+    <img src="https://img.shields.io/badge/ISL_DIABETIC_RETINOPATHY-MEDICAL_AI-00E5FF?style=for-the-badge&logo=pytorch&logoColor=black" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/SpecLearn">
+    <img src="https://img.shields.io/badge/SPELEARN-ADAPTIVE_ED-00FF66?style=for-the-badge&logo=react&logoColor=black" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/Robotics-Web-Dashboard">
+    <img src="https://img.shields.io/badge/ROBOTICS_DASHBOARD-TELEMETRY-FFA500?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+</p>
+
+---
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=FF0055&center=true&vCenter=true&width=650&lines=SYSTEM+OVERRIDE+%2F%2F+DAKSH+JAIN;SOVEREIGN+INTELLIGENCE+%26+INFRASTRUCTURE;BREAKING+CONVENTIONS+%2F%2F+BUILDING+THE+FUTURE" alt="Typing SVG" />
 </h1>
 
