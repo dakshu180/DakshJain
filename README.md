@@ -2,7 +2,7 @@
   =======================================================================
   SYSTEM COMMAND CONSOLE // ROOT ACCESS 
   ARCHITECT: DAKSH JAIN (dakshu180)
-  VERSION: 5.0.0 [STABLE REVERT + ROCKET EDITION]
+  VERSION: 5.1.0 [STABLE TELEMETRY FIX]
   =======================================================================
 -->
 
@@ -14,7 +14,7 @@
 
   <br><br>
 
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/STATUS-UNCOMPROMISED-FF0055?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Status" />
     <img src="https://img.shields.io/badge/CLEARANCE-ROOT_ACCESS-00FF66?style=for-the-badge&logo=linux&logoColor=black" alt="Clearance" />
     <img src="https://img.shields.io/badge/LOCATION-RAIPUR_NODE-00E5FF?style=for-the-badge&logo=adafruit&logoColor=black" alt="Location" />
@@ -126,14 +126,14 @@
 <div align="center">
   <p><b>Core Logic & Web Architecture</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,astro,tailwind,vite&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,astro,tailwind,vite&theme=dark" alt="Core Logic Web Skills" />
   </a>
   
   <br><br>
 
   <p><b>Firmware, Kernel Tuning & OS Modding</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,android,bash,powershell,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,android,bash,powershell,github&theme=dark" alt="Firmware OS Modding" />
   </a>
 </div>
 
@@ -144,32 +144,23 @@
   SYSTEM TELEMETRY & PERFORMANCE
 </h2>
 
-<div align="center">
+<!-- Removed nested div logic to prevent GitHub mobile app HTML crashes -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dakshu180&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dakshu180&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshu180&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshu180&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
   
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=dakshu180&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
-  </p>
-
-  <br>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=dakshu180&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshu180&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-  </p>
-
-  <br>
-
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshu180&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
-  </p>
-  
-  <br>
-  
-  <p>
-    <img src="https://raw.githubusercontent.com/dakshu180/dakshu180/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Matrix" width="100%" />
-  </p>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dakshu180/dakshu180/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Matrix" />
+</p>
 
 <br><br>
 
