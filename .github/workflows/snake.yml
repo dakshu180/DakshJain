@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -19,7 +19,8 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Contribution Snake SVG
-        uses: Platane/snk@v3
+        # Using svg-only version to prevent Docker pull timeouts
+        uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
