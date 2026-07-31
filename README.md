@@ -141,26 +141,39 @@
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" height="30" />
+  <h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" height="30" />
   SYSTEM TELEMETRY & PERFORMANCE
 </h2>
 
-<!-- Removed nested div logic to prevent GitHub mobile app HTML crashes -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dakshu180&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakshu180&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshu180&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshu180&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
   
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dakshu180/dakshu180/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Matrix" />
-</p>
+  <a href="https://github.com/dakshu180">
+    <img src="https://github-profile-trophy.vercel.app/?username=dakshu180&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/dakshu180">
+    <img src="https://github-readme-stats.vercel.app/api?username=dakshu180&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/dakshu180">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshu180&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/dakshu180">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshu180&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+  
+  <br><br>
+  
+  <a href="https://github.com/dakshu180">
+    <img src="https://raw.githubusercontent.com/dakshu180/dakshu180/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Matrix" />
+  </a>
+
+</div>
 
 <br><br>
 
@@ -175,3 +188,4 @@
   <br><br>
   <p><i>"Nullius in verba" — Take nothing on authority. Verify the source code.</i></p>
 </div>
+>
