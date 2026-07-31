@@ -2,7 +2,7 @@
   =======================================================================
   SYSTEM COMMAND CONSOLE // ROOT ACCESS 
   ARCHITECT: DAKSH JAIN (dakshu180)
-  VERSION: 4.0.0 [ANIMATED SOVEREIGN EDITION]
+  VERSION: 5.0.0 [STABLE REVERT + ROCKET EDITION]
   =======================================================================
 -->
 
@@ -28,12 +28,10 @@
 
 </div>
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.svg" width="100%">
-<br>
+<br><br>
 
 <h2 align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c2/512.gif" alt="Folder" width="30" height="30" /> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Folder" width="30" height="30" /> 
   DIRECTORY OVERRIDE // LIVE REPOSITORIES
 </h2>
 
@@ -71,9 +69,7 @@
   </tr>
 </table>
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.svg" width="100%">
-<br>
+<br><br>
 
 <h2 align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="Rocket" width="35" height="35" /> 
@@ -120,12 +116,10 @@
   </blockquote>
 </details>
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.svg" width="100%">
-<br>
+<br><br>
 
 <h2 align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2694_fe0f/512.gif" alt="Swords" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" alt="Swords" width="30" height="30" />
   TECHNICAL ARSENAL & TOOLING
 </h2>
 
@@ -143,33 +137,37 @@
   </a>
 </div>
 
-<br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.svg" width="100%">
-<br>
+<br><br>
 
 <h2 align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" alt="Chart" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" height="30" />
   SYSTEM TELEMETRY & PERFORMANCE
 </h2>
 
 <div align="center">
-
-  <!-- Native Markdown used here to prevent GitHub Mobile rendering bugs -->
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=dakshu180&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7)](https://github.com/dakshu180)
-
-  <br>
-
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dakshu180&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/dakshu180)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshu180&layout=compact&theme=radical&hide_border=true)](https://github.com/dakshu180)
+  
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=dakshu180&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+  </p>
 
   <br>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dakshu180&theme=radical&hide_border=true)](https://github.com/dakshu180)
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=dakshu180&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshu180&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  </p>
+
+  <br>
+
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshu180&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
+  </p>
   
   <br>
   
-  <!-- Contribution Snake Matrix -->
-  [![Snake Matrix](https://raw.githubusercontent.com/dakshu180/dakshu180/output/github-contribution-grid-snake-dark.svg)](https://github.com/dakshu180)
+  <p>
+    <img src="https://raw.githubusercontent.com/dakshu180/dakshu180/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Matrix" width="100%" />
+  </p>
 
 </div>
 
