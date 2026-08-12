@@ -20,7 +20,7 @@ jobs:
 
       - name: Generate Contribution Snake SVG
         # Using svg-only version to prevent Docker pull timeouts
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v2
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
